@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jold1992
-- I’m interested in to learn of best people in the world of development.
+- I’m interested in to learn of best people in the dev world.
 
 
 <!---
