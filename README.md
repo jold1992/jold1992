@@ -6,7 +6,6 @@ Full stack Developer
 
 *   🌍  I'm based in Ecuador
 *   ✉️  You can contact me at [jold1992@gmail.com](mailto:jold1992@gmail.com)
-*   🧠  I'm learning react
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
